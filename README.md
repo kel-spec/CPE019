@@ -1,2 +1,2 @@
 # CPE019
-Emerging Tech 2
+Emerging Technologies 2
